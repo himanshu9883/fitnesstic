@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90091565122",
+    "firebase_url": "https://fitnesstic-df251.firebaseio.com",
+    "project_id": "fitnesstic-df251",
+    "storage_bucket": "fitnesstic-df251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90091565122:android:d20fb6f4f951a24f",
+        "android_client_info": {
+          "package_name": "com.team_hrs.fitnesstic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90091565122-2hqsvqdpibf2jq8791jb1n6f688dqmi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team_hrs.fitnesstic",
+            "certificate_hash": "af26af96bebb2fd3718220121cbeb149e8789c63"
+          }
+        },
+        {
+          "client_id": "90091565122-6j7vglei6u8t56k2h2gilrjf446e474b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsntSRRQjXUZPniLxZZsD52gWcwQ2DjJk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90091565122-6j7vglei6u8t56k2h2gilrjf446e474b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
